@@ -1,1 +1,2 @@
-# 🟢 Django review 🟢
+# 🔵 Django review 🔵
+

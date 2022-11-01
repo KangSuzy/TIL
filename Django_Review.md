@@ -50,6 +50,3 @@ pip install mysqlclient
 위 mysql password 와 django secret key 를 my_settings.py 파일에 작성하고
 
 .gitignore 에 올리자 !
-
-### 로그인 회원가입 ..
-

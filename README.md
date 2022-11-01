@@ -5,9 +5,9 @@
 **Network**
 | Topic | 📖 |
 | :----: | :----: |
-| TCP / IP 4계층 | OSI 7 계층 |
+| TCP / IP 4계층 | OSI 7 계층 & PDU |
+|    | 캡슐화 & 비캡슐화 |
 |      | TCP & UDP |
 |      | 3way handshake & 4way handshake |
 |      | 대칭키 & 비대칭키 & 해시 |
-|    | 개념, 캡슐화, 비캡슐화, PDU |
-|    |  MTU, MSS, PMTUD |
+|    |  MTU & MSS & PMTUD |

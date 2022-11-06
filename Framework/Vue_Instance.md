@@ -55,6 +55,8 @@ Vue 인스턴스는 생성 후 HTML 의 범위내에서만 옵션 속성이 적�
 {{ message }}
 ```
 
+---
+
 ## 인스턴스의 라이프 사이클
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcBRP50%2FbtqEANhTvvV%2FAPUj8IaEefht8d4YEcpxo0%2Fimg.png">

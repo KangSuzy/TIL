@@ -24,4 +24,4 @@ _면접을 위한 CS 전공지식노트_
 | Routing | Routing & RoutingTable |
 | · | 이진수*이해하기 |
 | · | 대칭키 & 비대칭키 |
-| · | HttP |
+| · | Http |

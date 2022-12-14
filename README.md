@@ -24,7 +24,7 @@ _면접을 위한 CS 전공지식노트_
 | Web | Http |
 | | Web_Browser_Rendering |
 | | Web_Browser_Cache |
-| | Cookie_Session |
+| | Cookie_Session_JWT |
 | | REST API |
 | Routing | Routing & RoutingTable |
 | · | 이진수*이해하기 |
